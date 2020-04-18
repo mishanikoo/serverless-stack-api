@@ -1,0 +1,5 @@
+[credential]
+	UseHttpPath = true
+[user]
+	email = mnnikoo@amazon.com
+	name = mnnikoo
